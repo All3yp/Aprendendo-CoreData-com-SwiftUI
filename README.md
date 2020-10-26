@@ -1,6 +1,6 @@
 # Aprendendo CoreData com SwiftUI - Medium
 
-## Link para o artigo completo está [aqui]()
+## Link para o artigo completo está [aqui](https://alleypereira.medium.com/aprendendo-coredata-com-swiftui-90c9d2159714)
 
 ----
 ### Como contribuir
